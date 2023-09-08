@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Additional Pages
-Version: auto
+Version: 13.a
 Description: Add additional pages in menubar.
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=153
 Author: P@t
